@@ -1,0 +1,2 @@
+# Pandas-Data-Types-Choose-the-Right-Type-for-Speed-and-Safety-course-code
+Learn how pandas data types work so you can pick the right dtype for clean data, fewer silent casts, and faster analysis in Python. This lesson walks through NumPy defaults, pandas extension types, and Arrow—and when each choice helps or hurts. You will see how types enforce what a Series can store, why missing values can promote integers to float6
